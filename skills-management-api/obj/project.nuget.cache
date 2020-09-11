@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qjRRTrseDBDdYLPSyjha0siFGq3LUnfZt0P2GndRJNlocEvpT9rb44/bNX3bid3SiOAx+aqVRA1YfKCbSuefqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\olive\\Source\\Repos\\skills-management-core\\skills-management-api\\skills-management-api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\olive\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}

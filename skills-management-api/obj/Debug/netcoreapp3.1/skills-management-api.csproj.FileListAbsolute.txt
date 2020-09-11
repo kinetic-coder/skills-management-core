@@ -1,0 +1,9 @@
+C:\Users\olive\Source\Repos\skills-management-core\skills-management-api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\olive\Source\Repos\skills-management-core\skills-management-api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\olive\Source\Repos\skills-management-core\skills-management-api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\olive\Source\Repos\skills-management-core\skills-management-api\obj\Debug\netcoreapp3.1\skills-management-api.csprojAssemblyReference.cache
+C:\Users\olive\Source\Repos\skills-management-core\skills-management-api\obj\Debug\netcoreapp3.1\skills-management-api.AssemblyInfoInputs.cache
+C:\Users\olive\Source\Repos\skills-management-core\skills-management-api\obj\Debug\netcoreapp3.1\skills-management-api.AssemblyInfo.cs
+C:\Users\olive\Source\Repos\skills-management-core\skills-management-api\obj\Debug\netcoreapp3.1\skills-management-api.RazorTargetAssemblyInfo.cache
+C:\Users\olive\Source\Repos\skills-management-core\skills-management-api\obj\Debug\netcoreapp3.1\staticwebassets\skills-management-api.StaticWebAssets.Manifest.cache
+C:\Users\olive\Source\Repos\skills-management-core\skills-management-api\obj\Debug\netcoreapp3.1\staticwebassets\skills-management-api.StaticWebAssets.xml
